@@ -1,0 +1,76 @@
+# ========================
+# Data, Checkpoints & Results
+# ========================
+data/
+checkpoints/
+logs/
+results_v2/
+results_v2_final/
+results_v3/
+test_data/
+
+# ========================
+# Baselines & Ablation (excluded)
+# ========================
+baselines/
+ablation/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ========================
+# Large Model Files
+# ========================
+*.safetensors
+*.h5
+*.keras
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# ========================
+# Virtual Environment
+# ========================
+.venv/
+venv/
+env/
+
+# ========================
+# IDE & Editor
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ========================
+# Security - Keys
+# ========================
+*.pem
+*.key
+*.crt
+
+# ========================
+# Cache & Misc
+# ========================
+.cache/
+.claude/
+.dvc/
+Trash/
+.workbuddy/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
