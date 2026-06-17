@@ -1,6 +1,6 @@
 # EASE-MoE: Empathy-Aware Semi-Supervised Mixture of Experts for Multimodal Fake News Detection
 
-Official implementation. Multi-expert Mixture-of-Experts with multi-prototype one-class classification (OCC) for multimodal fake news detection.
+EASE-MoE: Empathy-Aware Semi-Supervised Mixture of Experts for Multimodal Fake News Detection.
 
 ## Key Innovations
 
